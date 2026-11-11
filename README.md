@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Grqy
-- 👀 I make websites.
-- 💞️ Thanks for stopping by!
+- 👋 hi, I’m @Grqy
+- I make software.
+- thanks for stopping by!
 
 <!---
 Grqy/Grqy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
